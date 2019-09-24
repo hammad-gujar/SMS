@@ -1,0 +1,6 @@
+<?php
+// created: 2019-09-24 23:58:38
+$mod_strings = array (
+  'LBL_SURVEYRESPONSES_ACCOUNTS_FROM_ACCOUNTS_TITLE' => 'Parent',
+  'LBL_SURVEYRESPONSES_CONTACTS_FROM_CONTACTS_TITLE' => 'Student',
+);
